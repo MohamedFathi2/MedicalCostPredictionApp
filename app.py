@@ -15,7 +15,7 @@ except FileNotFoundError:
     st.stop()
 
 # 2. APP INTERFACE
-st.title("Medical Cost Prediction AI")
+st.title("Insurance Prediction AI")
 st.write("Enter patient details to estimate insurance charges.")
 
 # Create the Input Form
